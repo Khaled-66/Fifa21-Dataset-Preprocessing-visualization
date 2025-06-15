@@ -47,8 +47,7 @@ After cleaning, I explored the data using Matplotlib, Seaborn, and Plotly. Key i
 
 - Best Potential PLayers in each Position
 
-![image](https://github.com/user-attachments/assets/e0399233-ffeb-473b-b0e8-5ad863a8ab00)
-
+![image](https://github.com/user-attachments/assets/8ae80078-20a1-45c8-9b08-151e67f0ccbb)
 
 
 - 📈 Prefered foot per Position
