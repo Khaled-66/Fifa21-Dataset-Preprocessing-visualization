@@ -88,8 +88,8 @@ After cleaning, I explored the data using Matplotlib, Seaborn, and Plotly. Key i
 
 ## 🤖 Machine Learning: Player Value Prediction
 
-- 🎯 **Target**: Player Value
-- 🔢 **Features Used**: Age, Overall, Potential, International Reputation, etc.
+- 🎯 **Target**: OVA "Overall Rating"
+- 🔢 **Features Used**: Age, wage, total stats, etc
 - 📈 **Model**: Linear Regression (Scikit-learn)
 - ✅ **Performance**:
   - R² Score: 0.85
