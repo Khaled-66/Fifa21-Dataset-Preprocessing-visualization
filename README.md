@@ -85,7 +85,7 @@ After cleaning, I explored the data using Matplotlib, Seaborn, and Plotly. Key i
 
 - 🦶 Foot Preference distribution (pie chart)
 
-## 🤖 Machine Learning: Player Value Prediction
+## 🤖 Machine Learning: OVA Rating Prediction 
 
 - 🎯 **Target**: OVA "Overall Rating"
 - 🔢 **Features Used**: Age, wage, total stats, etc
